@@ -1,2 +1,2 @@
-# iNeuron-matplotlib-assignment-
+# iNeuron-matplotlib-assignment
 python section by iNeuron
